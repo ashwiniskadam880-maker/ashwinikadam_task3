@@ -25,7 +25,7 @@ A simple Java console-based ATM application that simulates basic banking operati
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ashwiniskadam880-maker/ashwinikadam_task3.git>
    ```
 
 2. Compile the program:
